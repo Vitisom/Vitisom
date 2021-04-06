@@ -13,7 +13,7 @@
 -
 -->
 <a href="#">
-  <img align="top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk9ecqz0hQ3KknSsbFo1nvq8ZgfafmwgOplA&usqp=CAU" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk9ecqz0hQ3KknSsbFo1nvq8ZgfafmwgOplA&usqp=CAU" />
 </a>
 
 <a href="#">
