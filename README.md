@@ -13,7 +13,7 @@
 -
 -->
 <a href="#">
-  <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk9ecqz0hQ3KknSsbFo1nvq8ZgfafmwgOplA&usqp=CAU" />
+  <img align="right" src="https://github.com/Vitisom/Vitisom/blob/main/flork%20the%20sock/gun.jpg?raw=true" />
 </a>
 
 <a href="#">
