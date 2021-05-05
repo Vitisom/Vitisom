@@ -9,6 +9,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitisom&theme=chartreuse-dark&layout=compact" />
 </a>
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## Discord
 ### Name: Vitisom#3726
