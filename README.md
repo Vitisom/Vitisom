@@ -1,5 +1,5 @@
 <a href="#">
-  <img align="right" src="https://github.com/Vitisom/Vitisom/blob/main/flork%20the%20sock/ahh.png?raw=true" />
+  <img align="right" src="https://github.com/Vitisom/Vitisom/blob/main/flork%20the%20sock/bored.png?raw=true" />
 </a>
 
 <a href="#">
