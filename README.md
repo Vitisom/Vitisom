@@ -12,4 +12,3 @@
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## Discord
 ### Name: Vitisom#3726
-### Wexeimal
